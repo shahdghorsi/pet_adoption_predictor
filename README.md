@@ -35,12 +35,6 @@ The dataset used for training and evaluation can be accessed at [dataset_url](gs
 
 ## Evaluation Metrics
 
-The performance of the model has been evaluated using the following metrics:
-
-- F1 Score: 0.8310249307479225
-- Accuracy: 0.7436974789915967
-- Recall: 0.847457627118644
-
 The model has been evaluated using various data preprocessing techniques and feature transformations. Here are the evaluation metrics for different scenarios:
 
 1. **Downsampling**:
