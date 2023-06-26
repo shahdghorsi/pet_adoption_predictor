@@ -5,7 +5,7 @@ This project trains an XGBoost model to predict whether a pet is going to be ado
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Artifacts](#artifacts)
+- [Structure](#structure)
 - [Dataset](#dataset)
 - [Evaluation Metrics](#evaluation-metrics)
 - [Usage](#usage)
@@ -16,7 +16,7 @@ The main objective of this project is to develop a machine-learning model that c
 I tried different preprocessing approaches and compared the different evaluation metrics required and chose the best possible trained model to be used.
 
 
-## File Description
+## Structure
 
 List of artifacts included in the project:
 
