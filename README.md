@@ -68,7 +68,7 @@ The model has been evaluated using various data preprocessing techniques and fea
    - Recall: 0.8750918442321822
   
 ## Usage
-The model can be trained and some data visualization could be done by running the model_train.ipynb notebook.
+The model can be trained and some data visualization could be done by running the model_training.ipynb notebook.
 To run the prediction the run_prediction.py file could be run as a result of the output CSV file with an extra column "Adopted Prediction".
 
 The unit test could be performed by running the predictor_test.py and checking out the terminal output.
