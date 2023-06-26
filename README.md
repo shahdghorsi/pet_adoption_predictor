@@ -31,7 +31,7 @@ List of artifacts included in the project:
 
 ## Dataset
 
-The dataset used for training and evaluation can be accessed at [dataset_url](gs://cloud-samples-data/ai-platform-unified/datasets/tabular/petfinder-tabular-classification.csv). Please download the dataset and place it in the appropriate location as specified in the code or documentation.
+The dataset used for training and evaluation can be accessed at [(gs://cloud-samples-data/ai-platform-unified/datasets/tabular/petfinder-tabular-classification.csv)]. Please download the dataset and place it in the appropriate location as specified in the code or documentation.
 
 ## Evaluation Metrics
 
@@ -66,3 +66,9 @@ The model has been evaluated using various data preprocessing techniques and fea
    - F1 Score: 0.8434752022511431
    - Accuracy: 0.7601078167115903
    - Recall: 0.8750918442321822
+  
+## Usage
+The model can be trained and some data visualization could be done by running the model_train.ipynb notebook.
+To run the prediction the run_prediction.py file could be run as a result of the output CSV file with an extra column "Adopted Prediction".
+
+The unit test could be performed by running the predictor_test.py and checking out the terminal output.
